@@ -1,5 +1,5 @@
 package pckavlautomoveis;
-//Visual baseado na solução da aluna Rebeca Menezes Costa
+
 
 import javax.swing.JOptionPane;
 
