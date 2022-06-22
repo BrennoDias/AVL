@@ -1,5 +1,3 @@
-// Implementa uma árvore AVL
-// Elaboração (2016-2021): Prof. Amilton; adaptações: Prof. Ledón.
 
 package pckavlautomoveis;
 
